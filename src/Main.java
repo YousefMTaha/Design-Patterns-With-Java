@@ -29,11 +29,11 @@ public class Main {
 
         // prototype
 //
-        Laptop l1 = (Laptop) new Registry().getClone("Laptop");
-        Tablet t1 = (Tablet) new Registry().getClone("Tablet");
-
-        t1.setPrice(12.2);
-        l1.display();
+//        Laptop l1 = (Laptop) new Registry().getClone("Laptop");
+//        Tablet t1 = (Tablet) new Registry().getClone("Tablet");
+//
+//        t1.setPrice(12.2);
+//        l1.display();
 //        Laptop l1 = new Laptop("Lenovo", "16.5", "16GB", 100000, "mechanical");
 
 
